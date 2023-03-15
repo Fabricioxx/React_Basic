@@ -28,6 +28,26 @@ my-app
 
 ```
 
+#### codigo basico de um componente
+
+```javascript
+
+import "./nomeComponente.css";
+
+export default function nomeComponente() {
+
+
+    return (
+    
+    // codigo HTML - jsx ( retorna o codigo HTML )
+        )
+        
+}
+
+
+
+```
+
 
 1 - Instalar o Node.Js - cmd
 
