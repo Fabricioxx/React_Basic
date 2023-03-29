@@ -44,6 +44,19 @@ export default function nomeComponente() {
         
 }
 
+ou Arrow function
+
+const nomeComponente = () => {
+  
+  return (
+    
+  );
+};
+
+export default nomeComponente;
+
+
+
 
 
 ```
