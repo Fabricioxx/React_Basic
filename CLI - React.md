@@ -91,7 +91,28 @@ _CLI (Command-Line Interface) comandos importantes que são usados para desenvol
 
   ```
   
+  11 - para verificar todas as dependências do projeto e procura por vulnerabilidades conhecidas de segurança. exibe uma lista delas e recomenda as ações a serem    tomadas para corrigi-las.
   
+  ```Terminal
+  
+  npm audit
+
+  ```
+  
+  12 - Para tentar atualizar as dependências para versões que corrigem as vulnerabilidades.
+  
+  ```Terminal
+  
+  npm audit fix
+
+  ```
+  13 - Para forçar a instalação das atualizações mais recentes das dependências, mesmo que isso possa quebrar o seu código ou resultar em comportamentos inesperados. dependendo da situação pode quebrar o codigo se as atualização não forem compativeis com o projeto atual.
+       
+  ```Terminal
+  
+  npm audit fix --force
+
+  ```
   
   
   
