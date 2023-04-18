@@ -72,7 +72,7 @@ export default nomeComponente;
 
 2 - Instalar o React - cmd
 
-3 - Abra o seu terminal e crie um novo projeto usando o comando **npx create-react-app NomeProjeto**. Certifique-se de ter o Node.js instalado na sua máquina.
+3 - Abra o seu terminal e crie um novo projeto usando o comando **npx create-react-app NomeProjeto**. Certifique-se de ter o Node.js instalado na sua máquina. (nome do projeto tudo letra minuscula)
 
 4 - Crie uma pasta chamada **Components** dentro da pasta src usando o comando **mkdir src/Components**.
 
