@@ -2,12 +2,15 @@
 
 - Docs  https://reactjs.org/docs/create-a-new-react-app.html
 >    
-- Material Desing 
+
+ **Material Desing** 
 - https://mui.com
 - https://react.dev/
 - https://getbootstrap.com/docs/5.3/examples/
 
-#### Estrutura projeto [ npx create-react-app my-app ]
+**Prompts** [**terminal npm e npx :**](https://github.com/Fabricioxx/React_Basic/blob/main/CLI%20-%20React.md)
+
+#### Estrutura projeto [ **npx create-react-app my-app** ]
 
 ```
 my-app
